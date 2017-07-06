@@ -1,18 +1,15 @@
 Mashups: Creating with Web APIs
 ===============================
-(always subject to change)
 
-School: NYUAD
-Program: Interactive Media  
-Course Number: MDMED-AD 116 
-Semester: Fall 2016  
-Class: Tuesday 2:40pm - 3:55pm & Thursday 2:40pm - 5:20pm  
-Room: Arts Center IM Lab (Rm.029)   
-[Room Access Form](http://goo.gl/forms/Mge02MPoCb)
+School: NYU Tisch School of the Arts  
+Program: Interactive Telecommunications Program  
+Course Number: ITPG-GT 2611-001(6503)  
+Semester: Summer 2017  
+Class: Tuesday & Thursday, 3:30 - 6:15pm   
+Room: 721 Broadway, 4th Floor, Room 406  
 
-Instructor: Craig Protzel  
-Email: craig.protzel@nyu.edu  
-Office: Arts Center Rm.191
+Instructor: Calli Higgins  
+Email: calli@nyu.edu  
 Office Hours: TBD
 
 Course Description
@@ -20,15 +17,14 @@ Course Description
 
 As the World Wide Web continues to grow and permeate our everyday lives, an ever-increasing amount of data and digital services are accessible to us through public web APIs - Application Programming Interfaces. Common to many web sites, including YouTube, Twitter, Google Maps, Wikipedia and more, web APIs offer a means to programmatically request and re-purpose endless troves of information. But how exactly do we access these datasets and services? How can we write code to transfer, store, and display this content on our own web sites? And how might we use these available resources to design unique, creative, and compelling web experiences of our own.
 
-This class is about creating interactive single-page web applications that leverage public data and digital services from a wide range of existing web products. The overall goal of the class will be for each student to have 3 well-designed functional single-page web applications by end of semester. Subscribing to a project-oriented approach, a majority of class time will be spent reviewing and writing code, primarily Javascript, for client-side (front-end) web development. We will use a number of Javascript libraries, including jQuery, Underscore, p5, Popcorn, D3 and more, to help build a diversity of web experiences. Where server-side (back-end) development is required, we will use the Node-Express framework. Students should have some programming experience as well as an exposure to basic client-side web development, specifically HTML and CSS. Experience with Javascript is a plus.
+This class is about creating interactive single-page web applications that leverage public data and digital services from a wide range of existing web products. The overall goal of the class will be for each student to have 2 well-designed, functional single-page web applications by end of semester. Subscribing to a project-oriented approach, a majority of class time will be spent reviewing and writing code, primarily Javascript, for client-side (front-end) web development. We will use a number of Javascript libraries, including jQuery, Underscore, p5, D3, Skygear, and more, to help build a diversity of web experiences. Where server-side (back-end) development is required, we will use Skygear, a cloud service. Students should have some programming experience as well as an exposure to basic client-side web development, specifically HTML and CSS. Experience with Javascript is a plus.
 
 Schedule
 --------
 
 #### Overview
-* **PART I: Classes 01 - 09 Client-Side Web Development + API Fundamentals**
+* **PART I: Weeks 1 - 3 Client-Side Web Development + API Fundamentals**
 * **PART II: Classes 10 - 17 Client-Side Javascript Libraries**
-* **PART III: Classes 18 - 28 Server-Side Web Developmentt**
 
 #### [Classes 01_02 (08/30 & 09/01): Introduction to the Web, APIs, & Data](https://github.com/craigprotzel/Mashups/tree/master/01_02_The_Web_APIs_and_Data)
 
