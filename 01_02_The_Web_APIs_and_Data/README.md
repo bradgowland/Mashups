@@ -15,7 +15,7 @@
 #### IV. Student Introductions
 
 #### V. Lecture: The Web, APIs, & Data
-* [Lecture Slides](https://dl.dropboxusercontent.com/u/9648298/Mashups_Fall2016_Lecture_Upload.pdf)
+* [Lecture Slides](https://www.dropbox.com/s/b4dzkncpkr25jc7/Mashups_Fall2016_Summer2017_Lecture_Upload.pdf)
 * WWW Background
 	* [Andrew Blum - What Is The Internet Really?](https://www.ted.com/talks/andrew_blum_what_is_the_internet_really)
 	* [What's In An HTTP Request](http://rve.org.uk/dumprequest)
