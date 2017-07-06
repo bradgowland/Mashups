@@ -5,7 +5,7 @@ School: NYU Tisch School of the Arts
 Program: Interactive Telecommunications Program  
 Course Number: ITPG-GT 2611-001(6503)  
 Semester: Summer 2017  
-Class: Tuesday & Thursday, 3:30 - 6:15pm.   
+Class: Tuesday & Thursday, 3:30 - 6:15pm   
 Room: 721 Broadway, 4th Floor, Room 406  
 
 Instructor: Calli Higgins  
@@ -83,18 +83,17 @@ Class time will be spent going over assignments. Expect to be asked to show your
 
 Online Journal
 ---------------
-You are expected to keep some form of an online journal or web blog. For each assignment, you must:
+You are expected to keep some form of an online journal. For each assignment, you must:
 
-* provide a direct hyperlink to the work
 * describe the assignment
 * discuss what you chose to do and why
 * document any resources/research/inspiration
 * explain your process
 * highlight both successes and failures
 
-The purpose of the journal is twofold. First, it is a valuable way for you to communicate that you are keeping up with the work in the class and that you are grasping the material. I read the journals to see how you are doing. 
+The purpose of the journal is twofold. First, it is a valuable way for you to communicate that you are keeping up with the work in the class and that you are grasping the material. I read the entires to see how you are doing. 
 
-Second, the journal is a way to document your work for your own use and that of others. You must update the journal each week with the work you have done for class. You should use the journal as an opportunity to write clear, concise thoughts, questions, and analysis based on the class assignments. The writing is expected to be well reasoned and grammatically correct. You should link to any relevant sources, and provide context, such as images, video or audio, when appropriate. Whether this is a tumblr, a Wordpress site, a static HTML page, or even a Google doc does not matter. What does matter is that it is online and publicly accessible.
+Second, the journal is a way to document your work for your own use and that of others. You must update the journal each week with the work you have done for class. You should use the journal as an opportunity to write clear, concise thoughts, questions, and analysis based on the class assignments. The writing is expected to be well reasoned and grammatically correct. You should link to any relevant sources, and provide context, such as images, video or audio, when appropriate. Each entry should be included in the README.md file associated with your homework repo and pushed along with your homework.
 
 Projects
 --------------
@@ -110,10 +109,13 @@ Checklist:
 * At least two public web APIs as a data source
 
 ###Project 2###
-* Client-side web development
-* At least one public web API as a data source
-* At least one javascript “interaction” library
-* Bonus: database storage
+Project 2 will involve creating a single page (client-side only) web experience that ideally leverages data from at least one public web API and incorporates the use of at least one Javascript “interaction” library, such as p5, D3, Three, etc.
+	
+Cheklist:    
+* Client-side web development.  
+* At least one public web API as a data source  
+* At least one javascript “interaction” library  
+* Bonus: database storage  
 
 Attendance & Participation
 --------------------------

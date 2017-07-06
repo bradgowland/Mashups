@@ -35,6 +35,7 @@
 #### VI. Homework
 * Download - a text editor (I use [Sublime Text](http://www.sublimetext.com/))
 * Install - a code linter in your text editor. (For Sublime, I use [Sublime Linter](http://www.hongkiat.com/blog/identify-code-errors-sublime-linter/) with [jsHint](https://github.com/SublimeLinter/SublimeLinter-jshint)
+* Create a github account if you do not already have one. If this is your first time working with git, I recommend downloading and  [Git Desktop](https://desktop.github.com/) to create your account.
 * Read - [Ch.3 of Interactive Data Viz for the Web by Scott Murray](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html) **up to but not including the section on SVGs**. (Also note, the link appears to Ch.3 appears to be broken. Make sure you sscroll to the beginning of Chapter 3 and start from there.)
 * Read - [Data + Design - Ch.15 Importance of Color, Fonts, & Icons](https://infoactive.co/data-design/ch15)
 * Explore - [Programmable Web](http://programmableweb.com) (Note: lots of deprecated resources and broken links)
