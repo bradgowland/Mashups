@@ -5,7 +5,7 @@ School: NYU Tisch School of the Arts
 Program: Interactive Telecommunications Program  
 Course Number: ITPG-GT 2611-001(6503)  
 Semester: Summer 2017  
-Class: Tuesday & Thursday, 3:30 - 6:15pm   
+Class: Tuesday & Thursday, 3:30 - 6:15pm.   
 Room: 721 Broadway, 4th Floor, Room 406  
 
 Instructor: Calli Higgins  
@@ -22,37 +22,31 @@ This class is about creating interactive single-page web applications that lever
 Schedule
 --------
 
-#### Overview
-* **PART I: Weeks 1 - 3 Client-Side Web Development + API Fundamentals**
-* **PART II: Classes 10 - 17 Client-Side Javascript Libraries**
+#### **PART I: Client-Side Web Development + API Fundamentals**
 
-#### [Classes 01_02 (08/30 & 09/01): Introduction to the Web, APIs, & Data](https://github.com/craigprotzel/Mashups/tree/master/01_02_The_Web_APIs_and_Data)
+#### **7/6:** [Introduction to the Web, APIs, & Data](https://github.com/callihiggins/Mashups/tree/master/01_02_The_Web_APIs_and_Data)
 
-#### [Classes 03_04 (09/06 & 09/08): Web Dev 101](https://github.com/craigprotzel/Mashups/tree/master/03_04_Web_Dev_101)
+#### **7/11:** Web Dev 101
 
-#### [Classes 05_06 (09/15 & 09/20): Making Things Happen On The Page](https://github.com/craigprotzel/Mashups/tree/master/05_06_Making_Things_Happen_On_The_Page)
+#### **7/13 - 7/18:** Making Things Happen On The Page
 
-#### [Classes 07_08 (09/22 & 09/27): Structuring Your App](https://github.com/craigprotzel/Mashups/tree/master/07_08_Structuring_Your_App)
+#### **7/20 - 7/25:** Structuring Your App
 
-#### [Classes 09_10 (09/29 & 10/04): Project #1 DUE + Dealing with Data](https://github.com/craigprotzel/Mashups/tree/master/09_10_Dealing_With_Data)
+#### **7/27: Midterm DUE**
 
-#### [Classes 11_12 (10/06 & 11/11): Graphs on Graphs on Graphs](https://github.com/craigprotzel/Mashups/tree/master/11_12_Graphs_on_Graphs_on_Graphs)
+#### **PART II: Client-Side Javascript Libraries**
 
-#### [Classes 13_14 (10/13 & 10/18): Animation Playstation](https://github.com/craigprotzel/Mashups/tree/master/13_14_Animation_Playstation)
+#### **7/29:** Dealing with Data
 
-#### [Classes 15_16 (10/27 & 11/01): Sound & Video](https://github.com/craigprotzel/Mashups/tree/master/15_16_Sound_and_Video)
+#### **8/1:** Graphs on Graphs on Graphs
 
-#### [Classes 17_18 (11/03 & 11/08): Project #2 DUE + Back to the Server](https://github.com/craigprotzel/Mashups/tree/master/17_18_Back_To_The_Server)
+#### **8/3:** Animation Playstation & Sound & Video
 
-#### [Classes 19_20 (11/10 & 11/15): The Server Plus Storage](https://github.com/craigprotzel/Mashups/tree/master/19_20_The_Server_Plus_Storage)
+#### **8/3:** Server Plus Storage
 
-#### [Classes 21_22 (11/17 & 11/22): More Storage](https://github.com/craigprotzel/Mashups/tree/master/21_22_More_Storage)
+#### **8/9**: Final Project DUE
 
-#### [Classes 23_24 (11/24 & 11/29): Realtime Data + Authentication](https://github.com/craigprotzel/Mashups/tree/master/23_24_Realtime_Data_and_Authentication)
 
-#### [Classes 25_26 (12/06 & 12/08): Running Wild with Git and Heroku](https://github.com/craigprotzel/Mashups/tree/master/25_26_Running_Wild_with_Git_and_Heroku)
-
-#### [Classes 27_28 (12/13 & 12/15): Final Project DUE](https://github.com/craigprotzel/Mashups/tree/master/27_28_Final_Project)
 
 Learning Outcomes
 -----------------
@@ -60,7 +54,6 @@ Learning Outcomes
 * Develop a basic understanding of the Javascript language as well as the ecosystem of open source client-side Javascript libraries
 * Learn how to work with a variety of data-serving public web APIs
 * Learn how to create web pages for modern browsers that leverage data and services from public web APIs
-* Gain exposure to server-side (back-end) web development and data storage
 * Become empowered to produce compelling well-designed single page web experiences
 
 Teaching Methodology
@@ -79,8 +72,8 @@ Grading
 **10%** Attendance  
 **10%** Participation  
 **25%** Homework Assignments + Online Journal  
-**30%** Projects #1 & #2      
-**25%** Final Project    
+**25%** Midterm      
+**30%** Final Project    
 
 Homework Assignments
 ---------------
@@ -103,19 +96,24 @@ The purpose of the journal is twofold. First, it is a valuable way for you to co
 
 Second, the journal is a way to document your work for your own use and that of others. You must update the journal each week with the work you have done for class. You should use the journal as an opportunity to write clear, concise thoughts, questions, and analysis based on the class assignments. The writing is expected to be well reasoned and grammatically correct. You should link to any relevant sources, and provide context, such as images, video or audio, when appropriate. Whether this is a tumblr, a Wordpress site, a static HTML page, or even a Google doc does not matter. What does matter is that it is online and publicly accessible.
 
-Projects 1 & 2
+Projects
 --------------
-These two projects can be thought of as mini-mid terms. Both will build off preceding homework assignments thus allowing you to iteratively build towards their completion. Project 1 will involve creating a single page (client-side only) web experience that, upon user input, responds with data from at least 2 public web APIs. Project 2 will involve creating a single page (client-side only) web experience that ideally leverages data from at least one public web API and incorporates the use of at least one Javascript “interaction” library, such as p5, D3, Three, Popcorn, etc. For both projects, you will be expected to present your site, discuss your work, and clearly articulate your creative process.
 
-Final Project
--------------
-Your final project will require developing a comprehensive single page web experience that includes: 
 
-* client-side and server-side web development
-* at least one public web API as a data source
-* at least one javascript “interaction” library
-* database storage
-* a public web API route to serve your stored data
+Both projects will involve creating a single page (client-side only) web experience that, upon user input, responds with data public web APIs. You will be expected to present your site, discuss your work, and clearly articulate your creative process.
+
+###Project 1###
+Project 1 will involve creating a single page (client-side only) web experience that, upon user input, responds with data from at least 2 public web APIs. 
+
+Checklist:   
+* Client-side web development with user interaction  
+* At least two public web APIs as a data source
+
+###Project 2###
+* Client-side web development
+* At least one public web API as a data source
+* At least one javascript “interaction” library
+* Bonus: database storage
 
 Attendance & Participation
 --------------------------
