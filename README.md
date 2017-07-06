@@ -101,7 +101,7 @@ Projects
 
 Both projects will involve creating a single page (client-side only) web experience that, upon user input, responds with data public web APIs. You will be expected to present your site, discuss your work, and clearly articulate your creative process.
 
-###Project 1###
+###Project 1
 
 Project 1 will involve creating a single page (client-side only) web experience that, upon user input, responds with data from at least 2 public web APIs. 
 
@@ -109,7 +109,7 @@ Checklist:
 * Client-side web development with user interaction  
 * At least two public web APIs as a data source
 
-###Project 2###
+###Project 2
 
 Project 2 will involve creating a single page (client-side only) web experience that ideally leverages data from at least one public web API and incorporates the use of at least one Javascript “interaction” library, such as p5, D3, Three, etc.
 	
