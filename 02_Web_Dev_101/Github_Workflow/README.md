@@ -7,7 +7,7 @@ You can use either the [Command Line](https://services.github.com/on-demand/down
 
 **Assignment Workflow**  
    1. To start, [**fork** the homework repository](https://guides.github.com/activities/forking/).    
-   2. Click the 'Clone and Download' button, then choose 'Open in Desktop'. Confirm on Desktop that you want to clone the package.   
+   2. Go to your repos and navigate to the forked repo that you now own. Click the 'Clone and Download' button, then choose 'Open in Desktop'. Confirm on Desktop that you want to clone the package.   
    3. Modify the files.
    4. Select which files you want to submit by ticking/unticking the blue check box next to its name. You can preview the changes you've made in the window to the right.    
    5. Write a summary of the changes you are making next to your profile picture.    

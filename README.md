@@ -28,7 +28,9 @@ Schedule
 
 #### **7/11:** [Web Dev 101](https://github.com/ITP-Mashups/Mashups/tree/master/02_Web_Dev_101)
 
-#### **7/13 - 7/18:** Making Things Happen On The Page
+#### **7/13:** [Programming 101](https://github.com/ITP-Mashups/Mashups/tree/master/03_Programming_101)
+
+#### **7/18:** Making Things Happen On The Page
 
 #### **7/20 - 7/25:** Structuring Your App
 
