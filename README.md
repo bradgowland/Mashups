@@ -30,7 +30,7 @@ Schedule
 
 #### **7/13:** [Programming 101](https://github.com/ITP-Mashups/Mashups/tree/master/03_Programming_101)
 
-#### **7/18:** Making Things Happen On The Page
+#### **7/18:** [Making Things Happen On The Page](https://github.com/ITP-Mashups/Mashups/tree/master/04_Making_Things_Happen_On_The_Page)
 
 #### **7/20 - 7/25:** Structuring Your App
 

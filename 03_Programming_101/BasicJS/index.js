@@ -7,7 +7,7 @@ var lastNames = ['lennon', 'mccartney', 'harrison', 'starr'];
 
 var howManyBeatles = function (names) {
 	return names.length;
-}
+};
 
 var printNames = function(names) {
 
@@ -17,7 +17,7 @@ var printNames = function(names) {
 		}
 
 	}
-}
+};
 
 /*------------------------------------------------//
 Looping over simple objects
